@@ -1,0 +1,35 @@
+{
+  "Environment": "clearsparc_jroselle",
+  "DateTimeGenerated": "2025-07-17T16:56:10.512-07:00",
+  "TotalCount": 3944,
+  "Items": [
+    {
+      "ReportedDate": "2040-01-22T16:54:00-08:00",
+      "ComplaintNumber": "249638",
+      "Name": "NONE",
+      "Status": "Emission not present or traceable to source",
+      "FacilityOrSiteNumber": "FA520",
+      "StreetAddress1": "PIER 70",
+      "Zip": "94107",
+      "City": "SAN FRANCISCO",
+      "State": "CA",
+      "County": "SAN FRANCISCO COUNTY",
+      "ComplaintType": "Odor",
+      "ComplaintDescription": "napthalene",
+      "IsCityCountyValidated": true
+    },
+    {
+      "ReportedDate": "2024-07-10T01:18:00-07:00",
+      "ComplaintNumber": "CPM447967",
+      "Status": "Emission present and traceable to source",
+      "StreetAddress1": "E WILLIAM STREET AND 7TH STREET",
+      "Zip": "95112",
+      "City": "SAN JOSE",
+      "State": "CA",
+      "County": "SANTA CLARA COUNTY",
+      "ComplaintType": "Odor",
+      "ComplaintDescription": "An exterminator came to our house to spray and said that we should report the smell of the house next door. the smell is really strong and smells like something is rotting away. the smell penetrates to the whole parking area and lingers so much that being outside isn’t an option. "
+    }
+  ],
+  "Errors": []
+}
