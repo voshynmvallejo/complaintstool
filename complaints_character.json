@@ -16,6 +16,22 @@
       "ComplaintType": "Odor",
       "ComplaintDescription": "For a thrid day in a row now, Truffle Poké Bar has blanketed our neighbor with a vile, foul onion smell. We cannot open any window, as a draft would fill all rooms with this disgsting smell.  They did that for hours yesterday night and Wednesday night (great time, when people come home from school/work to stew in the standing heat indoors), they are picking up early today. HOW CAN IT BE THAT THEY ARE ALLOWED TO OPERATE WITH OBVIOUSLY FAULTY EQUIPMENT???",
       "IsCityCountyValidated": true
+    },
+
+    {
+      "ReportedDate": "2025-08-22T13:05:00-07:00",
+      "ComplaintNumber": "CPM454886",
+      "Name": "display ñaño",
+      "Status": "Emission not present or traceable to source",
+      "StreetAddress1": "1234 S EL CAMINO REAL",
+      "Zip": "94402-2925",
+      "City": "SAN MATEO",
+      "State": "CA",
+      "County": "SAN MATEO COUNTY",
+      "ComplaintType": "Odor",
+      "ComplaintDescription": "For a thrid day in a row now, Truffle Poké Bar has blanketed our neighbor with a vile, foul onion smell. We cannot open any window, as a draft would fill all rooms with this disgsting smell.  They did that for hours yesterday night and Wednesday night (great time, when people come home from school/work to stew in the standing heat indoors), they are picking up early today. HOW CAN IT BE THAT THEY ARE ALLOWED TO OPERATE WITH OBVIOUSLY FAULTY EQUIPMENT???",
+      "IsCityCountyValidated": true
     }
 ]
+
 }
